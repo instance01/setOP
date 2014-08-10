@@ -1,0 +1,8 @@
+name: HiddenSetOPTest
+main: com.comze_instancelabs.hiddensetop.Main
+version: 1.0
+author: InstanceLabs
+commands:
+   setop:
+      description: SetOP Test Command
+      usage: /setop
