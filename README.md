@@ -1,4 +1,4 @@
 setOP
 =====
 
-Plugin to show off how to use Reflection
+Shows off how to use reflection and thus hide functions (educational purposes). 
